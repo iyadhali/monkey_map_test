@@ -1,0 +1,5 @@
+{
+  "eslint.experimental.useFlatConfig": true,
+  "cSpell.words": ["echarts"],
+  "editor.formatOnPaste": true
+}

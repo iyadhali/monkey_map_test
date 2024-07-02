@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "vue.volar",
+    "nuxtr.nuxtr-vscode",
+    "ms-vscode.vscode-typescript-next",
+    "yoavbls.pretty-ts-errors",
+    "kuscamara.remove-unused-imports"
+  ]
+}
